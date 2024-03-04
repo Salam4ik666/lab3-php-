@@ -140,4 +140,20 @@ for ($i = 0; $i < count($files); $i++) {
 
 __1.1. Задание №1 Цикл For__
 ![2](https://github.com/Salam4ik666/lab3-php-/assets/159524637/12c57273-228c-443e-9331-cca016489493)
+![Снимок экрана 2024-03-04 214002](https://github.com/Salam4ik666/lab3-php-/assets/159524637/324a0997-7c00-4bfd-bc1e-f21fde7bcc49)
+
+__1.2. Задание №2 Цикл while__
+![tsikl](https://github.com/Salam4ik666/lab3-php-/assets/159524637/67ea6620-1f06-4c9c-b508-eb03cf553b92)
+
+__1.3. Задание №3 Определение массива__
+![random](https://github.com/Salam4ik666/lab3-php-/assets/159524637/4b0dcb58-676c-4a99-97d9-c3c46e728fe2)
+
+__1.4. Задание №4 Использование массивов и функций__
+![zadanie1_4](https://github.com/Salam4ik666/lab3-php-/assets/159524637/56195ecb-9411-4e30-8332-bb906caacd59)
+![zadanie1_4_2](https://github.com/Salam4ik666/lab3-php-/assets/159524637/d2501134-812e-4d7c-a750-5497e0edac66)
+![zadanie1_4_3](https://github.com/Salam4ik666/lab3-php-/assets/159524637/94a8baee-1e7d-4af6-8c3c-ccc172db5b42)
+
+__1.5. Задание №5 Работа с файловой системой__
+
+
 
